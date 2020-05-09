@@ -1,2 +1,2 @@
-# python_lista
-Inserindo valores em lista sem repetição
+# python
+Me divertindo com python
